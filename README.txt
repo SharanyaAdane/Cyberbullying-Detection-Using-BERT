@@ -1,4 +1,4 @@
-
+We have tried to use BERT for Cyberbullying Detection.
 To run the code successfully, follow these steps:
 
 Upload Datasets in Colab:
